@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>后台管理系统登录</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link href="https://getbootstrap.com/docs/4.0/examples/signin/signin.css" rel="stylesheet" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+    <form class="form-signin" method="post" action="/login">
+        <h2 class="form-signin-heading">后台管理系统登录</h2>
+        <p>
+            <label for="username" class="sr-only">Username</label>
+            <input type="text" id="username" placeholder="请输入账号" name="username" class="form-control" placeholder="Username" required="" autofocus="">
+        </p>
+        <p>
+            <label for="password" class="sr-only">Password</label>
+            <input type="password" id="password" placeholder="请输入密码" name="password" class="form-control" placeholder="Password" required="">
+        </p>
+        <input name="_csrf" type="hidden" value="2431a144-3b25-49d5-807d-31c200b3fc50">
+        <button class="btn btn-lg btn-primary btn-block" type="submit" onclick="gologin()">Sign in</button>
+        <br>
+        <div id="errorinfo" style="display: none"></div>
+    </form>
+</div>
+<script>
+    function gologin() {
+        var username=$("username").val();
+        var password=$("password").val();
+        if (username == '') {
+            layer.msg('用户名不能为空');
+            return false;
+        }
+        if (password == '') {
+            layer.msg('密码不能为空');
+            return false;
+        }
+        $.ajax({
+            url:"/form",
+            type:"POST",
+            data:{"username":username,"password":password},
+            success: function (result) {
+                console.log(result);
+                if(result.respcode="200"){
+                    console.log("成功");
+                    location.href="/index";
+                }else{
+                    alert("用户名或密码错误")
+                }
+
+            },
+            error:function () {
+                alert('服务器错误',{icon:5});
+            }
+        })
+
+    }
+</script>
+</body>
+</html>

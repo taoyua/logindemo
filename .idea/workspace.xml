@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8931c2ff-765f-493f-a300-608858549d9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/logindemo/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/logindemo/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/logindemo/entity/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/logindemo/entity/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/logindemo/mapper/MenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/logindemo/mapper/MenuMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/api/clear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/api/init.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/api/menus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/api/table.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/api/tableSelect.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/api/upload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/layuimini.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/public.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/themes/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/captcha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/donate_qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/icon-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/loginbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/lay-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/lay-module/layuimini/miniAdmin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/lay-module/layuimini/miniMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/lay-module/layuimini/miniPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/lay-module/layuimini/miniTheme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/lay-module/layuimini/miniTongji.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/jq-module/jquery.particleground.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/jq-module/paigusu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/jq-module/zyupload/zyupload-1.0.0.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/jq-module/zyupload/zyupload-1.0.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/jquery-3.4.1/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/css/layui.mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/css/modules/code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/css/modules/laydate/default/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/css/modules/layer/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/css/modules/layer/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/css/modules/layer/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/css/modules/layer/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/css/modules/layer/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/css/modules/layer/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/font/iconfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/colorpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/layedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/laypage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/laytpl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/rate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/transfer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/lay/modules/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/layui.all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/lib/layui-v2.5.5/layui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/logindemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/logindemo/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/logindemo/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/logindemo/entity/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/logindemo/entity/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/logindemo/mapper/MenuMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/logindemo/mapper/MenuMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/api/clear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/api/init.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/api/menus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/api/table.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/api/tableSelect.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/api/upload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/layuimini.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/public.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/themes/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/captcha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/donate_qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/icon-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/loginbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/lay-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/lay-module/layuimini/miniAdmin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/lay-module/layuimini/miniMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/lay-module/layuimini/miniPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/lay-module/layuimini/miniTheme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/lay-module/layuimini/miniTongji.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/jq-module/jquery.particleground.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/jq-module/paigusu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/jq-module/zyupload/zyupload-1.0.0.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/jq-module/zyupload/zyupload-1.0.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/jquery-3.4.1/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/css/layui.mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/css/modules/code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/css/modules/laydate/default/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/css/modules/layer/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/css/modules/layer/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/css/modules/layer/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/css/modules/layer/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/css/modules/layer/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/css/modules/layer/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/font/iconfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/colorpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/layedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/laypage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/laytpl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/rate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/transfer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/lay/modules/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/layui.all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/lib/layui-v2.5.5/layui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Service Files\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\IDEA Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Mzpjx9CZ5JQsiveFQulzOqUzKE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA\logindemo\src\main\resources" />
+      <recent name="D:\IDEA\logindemo\src\main\resources\static\lib\layui-v2.5.5" />
+      <recent name="D:\IDEA\logindemo\src\main\resources\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA Files\logindemo\src\main\resources\templates" />
+      <recent name="D:\IDEA\logindemo\src\main\resources\templates" />
+      <recent name="D:\IDEA\logindemo\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="LogindemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="logindemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.logindemo.LogindemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8931c2ff-765f-493f-a300-608858549d9d" name="Default Changelist" comment="" />
+      <created>1678780404015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678780404015</updated>
+      <workItem from="1678780407149" duration="20815000" />
+      <workItem from="1679295282535" duration="16081000" />
+      <workItem from="1679324533896" duration="1414000" />
+      <workItem from="1679326166914" duration="4842000" />
+      <workItem from="1679558543538" duration="1696000" />
+    </task>
+    <task id="LOCAL-00001" summary="新增前端页面">
+      <created>1678797177526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678797177526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增前端页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增前端页面" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="199" y="148" key="FileChooserDialogImpl" timestamp="1679324821688">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="199" y="148" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1679324821688" />
+    <state width="1493" height="383" key="GridCell.Tab.0.bottom" timestamp="1679330539084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1679330539084" />
+    <state width="1493" height="383" key="GridCell.Tab.0.center" timestamp="1679330539084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1679330539084" />
+    <state width="1493" height="383" key="GridCell.Tab.0.left" timestamp="1679330539083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1679330539083" />
+    <state width="1493" height="383" key="GridCell.Tab.0.right" timestamp="1679330539084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1679330539084" />
+    <state width="1493" height="383" key="GridCell.Tab.1.bottom" timestamp="1679330539084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1679330539084" />
+    <state width="1493" height="383" key="GridCell.Tab.1.center" timestamp="1679330539084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1679330539084" />
+    <state width="1493" height="383" key="GridCell.Tab.1.left" timestamp="1679330539084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1679330539084" />
+    <state width="1493" height="383" key="GridCell.Tab.1.right" timestamp="1679330539084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="383" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1679330539084" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1679324769682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1679324769682" />
+  </component>
+</project>
